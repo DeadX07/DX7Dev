@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{F2CD1BC8-E297-4E1F-9B86-8FF17BA61FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C8FC9015-72B2-4CC2-820E-CFCBAB599060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug (Problem)|Any CPU = Debug (Problem)|Any CPU
+		Debug (Solution)|Any CPU = Debug (Solution)|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CD1BC8-E297-4E1F-9B86-8FF17BA61FA5}.Debug (Problem)|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CD1BC8-E297-4E1F-9B86-8FF17BA61FA5}.Debug (Problem)|Any CPU.Build.0 = Debug|Any CPU
+		{F2CD1BC8-E297-4E1F-9B86-8FF17BA61FA5}.Debug (Solution)|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CD1BC8-E297-4E1F-9B86-8FF17BA61FA5}.Debug (Solution)|Any CPU.Build.0 = Debug|Any CPU
+		{C8FC9015-72B2-4CC2-820E-CFCBAB599060}.Debug (Problem)|Any CPU.ActiveCfg = Debug (Problem)|Any CPU
+		{C8FC9015-72B2-4CC2-820E-CFCBAB599060}.Debug (Problem)|Any CPU.Build.0 = Debug (Problem)|Any CPU
+		{C8FC9015-72B2-4CC2-820E-CFCBAB599060}.Debug (Solution)|Any CPU.ActiveCfg = Debug (Solution)|Any CPU
+		{C8FC9015-72B2-4CC2-820E-CFCBAB599060}.Debug (Solution)|Any CPU.Build.0 = Debug (Solution)|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46353A5-CF8D-4302-B231-E019E0B62F16}
+	EndGlobalSection
+EndGlobal
